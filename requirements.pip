@@ -1,0 +1,7 @@
+# Python dependencies for WiCrack
+questionary
+pyfiglet
+
+# Optional (for GUI mode, Tkinter is included in standard Python)
+# If running in minimal environments:
+# tkinter
