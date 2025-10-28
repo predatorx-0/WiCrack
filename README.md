@@ -19,10 +19,10 @@
 ## 🛠 Installation
 
 ```bash
-sudo apt update && sudo apt install -y aircrack-ng hcxdumptool mdk4
+sudo apt update && sudo apt upgrade
 git clone https://github.com/predatorx-0/WiCrack.git
 cd WiCrack
-pip install -r requirements.pip  # Only needed for Python dependencies like questionary
+sudo python3 WiCrack.py
 
 
 
