@@ -9,10 +9,8 @@
 - Scans for Wi-Fi networks
 - Lets you select a target from the detected networks
 - Supports:
-  - **PMKID attack**
   - **Handshake capture**
   - **DoS Attack**
-  - **Evil Twin**
 - Allows you to choose a custom wordlist for cracking
 - Generates a markdown report in the `wicrack_output/` directory
 
