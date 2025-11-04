@@ -1,4 +1,4 @@
-# 🔓 Wicrack - Interactive TUI for Wi-Fi Attacks (PMKID & Handshake)
+# 🔓 Wicrack - Interactive TUI for Wi-Fi Attacks (DOS & Handshake)
 
 **Wicrack** is a simple, interactive, terminal-based tool (TUI) for automating Wi-Fi network attacks using popular tools available on Kali Linux. It guides the user step-by-step, from selecting a wireless interface to capturing handshakes and cracking passwords.
 
